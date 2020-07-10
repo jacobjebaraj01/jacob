@@ -1,2 +1,2 @@
-# jacob
-this is first rstudio repository
+HI,i  am learning courseta course for datascience for last few days .i learned a lot from this course.data science tool box helped me to start with R  and rstudio.
+this platform is very help full to me to start my carrier in the effective way.they taught basic things to advanced.first they started with how to install .then running library.then howto install library.then rmarkdown.how to use that.then expieremental anaysis.the types of datasciense .the big data analysis
